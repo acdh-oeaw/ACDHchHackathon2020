@@ -18,6 +18,11 @@ Your submission will be judged by the following criteria:
 
 ## Openness
 
-Participants will work on their solutions in a dedicated (own) GitHub repository. Once you have finished your work, set your repo to public, tag it #ACDHhackathonELEXIS and send the repo link to vanessa.hannesschlaeger[at]oeaw.ac.at and tanja.wissik[at]oeaw.ac.at.
+Participants will work on their solutions in a dedicated (own) GitHub repository. Once you have finished your work, set your repo to public, tag it #ACDHhackathon2020 and send the repo link to vanessa.hannesschlaeger[at]oeaw.ac.at and tanja.wissik[at]oeaw.ac.at.
 
 All code submitted by all participants (as well as all reviews by all judges) shall be made permanently publicly available on GitHub under an MIT license (or similarly permissive license, respectively a fitting open license for submissions of enriched data and presentation material). By submitting their code to this challange, participants agree to these terms.
+
+## Judges
+
+The following coding experts will act as judges for this hackathon:
+* coming soon!
