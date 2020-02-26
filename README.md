@@ -1,6 +1,6 @@
 # ACDH-CH Hackathon 2020
 The repo containing your task for the ACDH-CH Hackathon 2020. This task is open for submissions from 28 February 2020 (2 pm CET) - 31 March 2020 (midnight CET). 
-More information about the hackathon is availabl on the [ACDH-CH website](https://www.oeaw.ac.at/acdh/detail/event/acdh-ch-open-data-virtual-hackathon-round-two/).
+More information about the hackathon is available on the [ACDH-CH website](https://www.oeaw.ac.at/acdh/detail/event/acdh-ch-open-data-virtual-hackathon-round-two/).
 
 ## Your task
  **to be published on 28 February 2020 (2 pm CET)**
