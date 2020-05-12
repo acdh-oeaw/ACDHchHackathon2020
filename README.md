@@ -2,6 +2,9 @@
 The repo containing your task for the ACDH-CH Hackathon 2020. This task is open for submissions from 28 February 2020 (2 pm CET) - 31 March 2020 (midnight CET). 
 More information about the hackathon is available on the [ACDH-CH website](https://www.oeaw.ac.at/acdh/detail/event/acdh-ch-open-data-virtual-hackathon-round-two/).
 
+## Results!
+The results and winners of the ACDH-CH Hackathon 2020 will be announced in this repo on Friday, 15 May 2020. 
+
 ## Your task
 The hack of the ACDH-CH virtual hackathon 2020 focuses on Open Data that is of interest for the [Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/), a platform that provides an overview of the growing range of available teaching activities in the field of digital humanities worldwide. In this hack, your task is to develop a creative mode of visualizing data and metadata about teaching activities. You can visualize the data themselves or the results of statistical analysis done with the data. You are free to choose your visualisation except for a map based visualisation (because this visualisation is already implemented in the DH Course Registry).  
 **Note: No map based visualisations are eligible for this task.**
@@ -28,4 +31,9 @@ All code submitted by all participants (as well as all reviews by all judges) sh
 ## Judges
 
 The following coding experts will act as judges for this hackathon:
-* coming soon!
+* Lenka Bajčetić 
+* John McCrae 
+* Renato Rocha Souza
+* Gerlinde Schneider
+* Omar Siam
+* Marcella Tambuscio
