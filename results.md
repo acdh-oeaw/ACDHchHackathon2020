@@ -1,6 +1,6 @@
 # Results of the ACDHchHackathon2020
 
-## Martina Trognitz & Likas Gehrig: [CORIANDER COurse RegIstry stAtistics aNd aDditional matERial - Adding further functionalities to the DH Cource Registry by CLARIN and DARIAH](https://github.com/bellerophons-pegasus/CORIANDER) 
+## Martina Trognitz & Lukas Gehrig: [CORIANDER COurse RegIstry stAtistics aNd aDditional matERial - Adding further functionalities to the DH Cource Registry by CLARIN and DARIAH](https://github.com/bellerophons-pegasus/CORIANDER) 
 
 **Ruling:** We award this submission first place in the ACDH hackathon 2020. Congratulations!
 
